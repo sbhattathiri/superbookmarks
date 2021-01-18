@@ -7,6 +7,7 @@
 ### selenium
 
 1. CSS Selectors: https://www.pineboat.in/post/css-selectors-selenium-webdriver-find-element-xpath-replaced/
+2. XPath : https://stackoverflow.com/questions/3655549/xpath-containstext-some-string-doesnt-work-when-used-with-node-with-more
 
 
 ### javascript
