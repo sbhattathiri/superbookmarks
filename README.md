@@ -13,3 +13,4 @@
 ### javascript
 
 1. regex : https://www.pineboat.in/post/regular-expressions-your-ally/
+2. Closures : https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4
